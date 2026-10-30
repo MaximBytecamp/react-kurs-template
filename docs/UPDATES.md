@@ -37,3 +37,5 @@ git config pull.rebase false
 ```
 
 и снова нажмите **Sync Changes**.
+
+Подробно со снимками: [работа с репозиторием](https://algorthimization-course-vvodnoe.vercel.app/angular-react/repozitoriy/index.html#s10).

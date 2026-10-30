@@ -48,4 +48,5 @@ npm run dev
 - [Справочник по Angular и React](https://maximbytecamp.github.io/angular_react_makarov/index.html)
 - [Конспекты пройденных глав](lectures/README.md)
 - [Как сдавать работы](docs/SUBMIT.md) и [как приходят новые материалы](docs/UPDATES.md)
+- [Пошаговая инструкция по работе с репозиторием](https://algorthimization-course-vvodnoe.vercel.app/angular-react/repozitoriy/index.html)
 - [Страница дисциплины](https://algorthimization-course-vvodnoe.vercel.app/angular-react/index.html) и [стандарт репозитория студента](https://algorthimization-course-vvodnoe.vercel.app/shared/standart-repozitoriya/index.html)

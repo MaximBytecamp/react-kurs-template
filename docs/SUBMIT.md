@@ -1,7 +1,7 @@
 # Как сдавать работы
 
-Пошаговая инструкция и общие правила — на странице дисциплины: [https://algorthimization-course-vvodnoe.vercel.app/angular-react/index.html](https://algorthimization-course-vvodnoe.vercel.app/angular-react/index.html).
-Здесь — правила, которые проверяет преподаватель.
+Пошаговая инструкция с картинками для всех случаев — на сайте курса:
+[работа с репозиторием](https://algorthimization-course-vvodnoe.vercel.app/angular-react/repozitoriy/index.html). Здесь — правила, которые проверяет преподаватель.
 
 ## Куда класть работу
 
