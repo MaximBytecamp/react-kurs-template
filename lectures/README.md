@@ -22,3 +22,4 @@
 | 2.3 | [Загрузка данных: загрузка и ошибка](chapter-2-3-zagruzka.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/23-zagruzka/index.html) |
 | 2.4 | [Собственный хук](chapter-2-4-sobstvennyy-huk.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/24-sobstvennyy-huk/index.html) |
 | 2.5 | [Обновление по событиям из базы](chapter-2-5-obnovlenie-po-sobytiyam.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/25-obnovlenie-po-sobytiyam/index.html) |
+| 3.1 | [Маршрутизация](chapter-3-1-marshrutizaciya.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/31-marshrutizaciya/index.html) |
