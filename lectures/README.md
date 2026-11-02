@@ -24,3 +24,4 @@
 | 2.5 | [Обновление по событиям из базы](chapter-2-5-obnovlenie-po-sobytiyam.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/25-obnovlenie-po-sobytiyam/index.html) |
 | 3.1 | [Маршрутизация](chapter-3-1-marshrutizaciya.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/31-marshrutizaciya/index.html) |
 | 3.2 | [Контекст: общие данные](chapter-3-2-kontekst.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/32-kontekst/index.html) |
+| 3.3 | [Сборка и публикация на GitHub Pages](chapter-3-3-github-pages.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/33-github-pages/index.html) |
