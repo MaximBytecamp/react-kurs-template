@@ -11,6 +11,7 @@
 | автоматизация | `avtomatizaciya/` | `avtomatizaciya/compose.yaml` |
 | проект модуля | `projects/pN-<вариант>/` | `projects/p1-obshchezhitie/src/App.tsx` |
 | процессы n8n проекта 2 | `projects/p2-<вариант>/n8n/` | `projects/p2-obshchezhitie/n8n/ii-dispetcher.json` |
+| ссылки и журнал проекта 3 | `projects/p3-monitoring/` | `projects/p3-monitoring/README.md` |
 
 Папки `zayavki` и `avtomatizaciya` создаются по шагам глав 1.1 и «Автоматизация» модуля 1 прямо
 в этом репозитории: он и есть папка курса `react-kurs`.
