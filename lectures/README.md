@@ -25,3 +25,4 @@
 | 3.1 | [Маршрутизация](chapter-3-1-marshrutizaciya.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/31-marshrutizaciya/index.html) |
 | 3.2 | [Контекст: общие данные](chapter-3-2-kontekst.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/32-kontekst/index.html) |
 | 3.3 | [Сборка и публикация на GitHub Pages](chapter-3-3-github-pages.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/33-github-pages/index.html) |
+| 3.4 | [GitHub Actions: конвейер и расписание](chapter-3-4-github-actions.md) | [глава справочника](https://maximbytecamp.github.io/angular_react_makarov/temy/34-github-actions/index.html) |
